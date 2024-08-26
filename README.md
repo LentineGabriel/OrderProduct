@@ -1,1 +1,7 @@
-# OrderProduct
+# OrderProduct: Um Exercício Muito Legal de Fixação
+### ENUNCIADO: (Ler os dados de um cliente) Ler os dados de um pedido com N itens (N fornecido pelo usuário). Depois, mostrar um sumário do pedido. Nota: o instante do pedido deve ser o instante do sistema: DateTime.Now
+
+## MINHA EXPERIÊNCIA
+<p>Diferente dos exercícios anteriores, esse não tinha nenhum acompanhamento visual de nenhuma pessoa externa. Ou seja, todo o código foi escrito com o conhecimento adquirido durante o módulo, a reprise de vídeos e a solução de exercícios anteriores (além do material disponível no GitHub do professor).</p>
+<p>Foi muito legal "pensar como um programador" ao mesmo tempo que o pensamento era "como eu vou falar para o computador que é assim que deve ser feito?". Para esse exercício foi utilizado um planejamento em UML para melhor visualização e entendimento de todas as funcionalidades do código (os dados UML foram dados pelo professor no vídeo explicativo do mesmo). Consegui realizar uns 80% do código de forma autônoma, depois precisei ir até o GitHub do professor, pois havia me esquecido como algumas coisas funcionavam (a exemplo do StringBuilder - conceito novo, visto bem rápido no módulo), isso lá entre 45-50min de código (o tempo total também está anexado ao projeto).</p>
+<p>No geral, foi muito legal! Me diverti fazendo e praticando com essa e as atividades anteriores e todo o módulo, de forma geral, foi bem dinâmico e prazeroso de se assistir.</p>
